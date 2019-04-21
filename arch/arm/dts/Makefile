@@ -439,7 +439,8 @@ dtb-$(CONFIG_MX6) += imx6ul-14x14-ddr3-arm2.dtb \
 	imx6ul-geam-kit.dtb \
 	imx6ul-isiot-emmc.dtb \
 	imx6ul-isiot-nand.dtb \
-	imx6ul-opos6uldev.dtb
+	imx6ul-opos6uldev.dtb \
+	imx6q-hsae.dtb
 
 dtb-$(CONFIG_MX7) += imx7-colibri.dtb \
 	imx7d-sdb.dtb \
